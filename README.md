@@ -15,9 +15,9 @@ Preface: A Passionate Collector's Portrait
 Introduction: A Brief History of NFTs from 2015 to 2023
 
 __Chapter I: Strategies to Build Your Collection__
-*The NFT Market Status Quo
-*Following the Ecosystem
-*Collection Analysis, Minting Strategy, and Second Market Trading
+* The NFT Market Status Quo
+* Following the Ecosystem
+* Collection Analysis, Minting Strategy, and Second Market Trading
 
 __Chapter II: How to Secure and Store Your NFT Collection__
 *Wallet Management
