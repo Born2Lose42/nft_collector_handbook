@@ -20,30 +20,30 @@ __Chapter I: Strategies to Build Your Collection__
 * Collection Analysis, Minting Strategy, and Second Market Trading
 
 __Chapter II: How to Secure and Store Your NFT Collection__
-*Wallet Management
-*Asset Security Tips
-*NFT Storage
+* Wallet Management
+* Asset Security Tips
+* NFT Storage
 
 __Chapter III: Showcasing Your Collection__
-*Streaming Apps
-*Virtual Gallery in the Metaverse
-*IRL:Digital Frame
-*IRL:Phygital Display
-*Other Displays 
+* Streaming Apps
+* Virtual Gallery in the Metaverse
+* IRL:Digital Frame
+* IRL:Phygital Display
+* Other Displays 
 
 __Chapter IV: Unleashing Your Collection's Value__
-*Engage with the NFT Community
-*Trading, Stacking, and Lending Your NFTs
+* Engage with the NFT Community
+* Trading, Stacking, and Lending Your NFTs
 
 Glossary
 Resources
 
-##Preface: A Passionate Collector's Portrait
+## Preface: A Passionate Collector's Portrait
 
-##Introduction: A Brief History of NFTs from 2015-2023
+## Introduction: A Brief History of NFTs from 2015-2023
 Explore the concept of non-fungible tokens (NFTs) in detail, including their definition, underlying technology, and a concise history of their evolution from 2015 to 2023. Understand the key milestones and trends that have shaped the NFT landscape.
 
-Chapter I: Strategies to Build Your Collection
+## Chapter I: Strategies to Build Your Collection
 This chapter focuses on strategies for building a diverse and valuable NFT collection. Discover the most reputable platforms and marketplaces for sourcing NFTs. Learn how to navigate the ecosystem effectively by following influential collectors, artists, curators, and influencers. Dive into collection analysis, minting strategies, and explore the potential of the second market for trading NFTs.
 
 Chapter II: How to Secure and Store Your NFT Collection
