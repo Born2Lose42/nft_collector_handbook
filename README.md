@@ -1,6 +1,6 @@
 # A NFT collector's handbook
 
-> Building a collection involves finding, buying, organizing, and storing objects in a room, a house, a library, a museum, or a warehouse... It is also, inevitably, a way of thinking about the world... Collectioning, is a method of producing knowledge.
+> <blockquote> Building a collection involves finding, buying, organizing, and storing objects in a room, a house, a library, a museum, or a warehouse... It is also, inevitably, a way of thinking about the world... Collectioning, is a method of producing knowledge.
 — Hans Ulrich Obrist, *Ways of Curating*<blockquote>
 
 __Autors : Yue Wang (aka @cduchinois), Yvonne Senouf (aka @JoiningTheDots)__
