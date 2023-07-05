@@ -4,6 +4,7 @@
 
 Collectioning, is a method of producing knowledge.
 </blockquote>
+<blockquote> 
   — Hans Ulrich Obrist, *Ways of Curating*
 </blockquote>
 
